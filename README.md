@@ -33,3 +33,14 @@ IMAGE_FOLDER | Path to folder with photos to crop (String)
     
     ```py -3 Main.py```
 
+## Examples
+![Automatic neural image cropper](http://petr-marek.com/wp-content/uploads/2017/09/pexels-photo-145407-768x932.jpg)
+
+![Automatic neural image cropper](http://petr-marek.com/wp-content/uploads/2017/09/pexels-photo-177809-768x938.jpg)
+
+![Automatic neural image cropper](http://petr-marek.com/wp-content/uploads/2017/09/pexels-photo-768x933.jpg)
+
+![Automatic neural image cropper](http://petr-marek.com/wp-content/uploads/2017/09/IMG_3830-768x936.jpg)
+
+![Automatic neural image cropper](http://petr-marek.com/wp-content/uploads/2017/09/pexels-photo-90283-768x935.jpg)
+
